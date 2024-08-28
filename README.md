@@ -6,4 +6,4 @@ I’m currently pursuing a Bachelor of Science in Computer Science at the Georgi
 
 My major concentrations are cybesecurity and media, and I am a third year student.
 
-You can reach my further by my student email @pmc8@gatech.edu
+You can reach me further with my student email: @pmc8@gatech.edu

